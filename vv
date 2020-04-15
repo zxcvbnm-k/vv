@@ -49,7 +49,7 @@ document.write(password());
 </head>
 
 <body>
-
+<p style="color:red; font-size:20;">good</p>
 </boody>
 
 </html>
